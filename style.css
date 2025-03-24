@@ -19,12 +19,13 @@ main{
 
 }
 section#telefone{
-    height: 800px;
+    line-height: 1.1em;
+    height: 750px;
     width: 320px;
     background-color: blue;
     position: absolute;
     top: 65%;
-    left: 50%;
+    left: 45%;
     transform: translate(-50%, -50%);
     background: url('../projeto-social/imagens/frame-iphone.png') no-repeat;
 }
