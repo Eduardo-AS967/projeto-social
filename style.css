@@ -36,6 +36,7 @@ iframe{
     height: 468px;
 
 }
+
 iframe#tela{
     position: relative;
     top: 80px;
@@ -43,9 +44,11 @@ iframe#tela{
     width: 267px;
     height: 471px;
 }
+
 section#redes-socias {
     text-align: right;
 }
+
 section#redes-socias img{
     width: 50px;
     margin: 15px;
