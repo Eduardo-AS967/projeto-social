@@ -8,7 +8,6 @@ html, body{
     height: 100vh;
 }
 body{
-    margin: auto;
     background: url('../projeto-social/imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
@@ -23,8 +22,11 @@ section#telefone{
     width: 320px;
     background-color: blue;
     position: absolute;
+    border-top: 10px;
+    border-bottom: 50px;
     top: 65%;
     left: 45%;
+    bottom: 50px;
     transform: translate(-50%, -50%);
     background: url('../projeto-social/imagens/frame-iphone.png') no-repeat;
 }
