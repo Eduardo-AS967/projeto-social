@@ -20,7 +20,7 @@ main{
 
 }
 section#telefone{
-    height: 627px;
+    height: 267px;
     width: 311px;
     background-color: blue;
     position: absolute;
@@ -31,9 +31,9 @@ section#telefone{
 }
 iframe{
     position: relative;
-    top: 80px;
+    top: 90px;
     left: 22px;
-    width: 265px;
+    width: 268px;
     height: 468px;
 
 }
